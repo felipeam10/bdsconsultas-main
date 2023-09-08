@@ -6,6 +6,12 @@ Aqui estão as soluções implementadas:
 
 # Dicas:
 
-### 1 Criar primeiramente a interface Projection
+### 1 - Criar primeiramente a interface Projection
 
-### 2 Sequência...
+### 2 - Implementar o DTO
+
+### 3 - Implementar o Repository
+
+### 4 - Implementar a lógica para exibir os resultados na classe Application
+
+
